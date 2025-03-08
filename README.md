@@ -35,10 +35,10 @@ La **App de Seguridad Ciudadana** es una plataforma digital diseñada para mejor
 - **Posibles reportes falsos o malintencionados.**
 
 ## 🚀 Futuro de la App
--🔹 Integración con cámaras de seguridad en fases posteriores.
--🔹 Expansión del sistema para incluir a la Policía y Bomberos.
--🔹 Implementación de un chat en vivo con las autoridades.
--🔹 Desarrollo de un sistema de análisis de datos para mejorar la seguridad en zonas críticas.
+- 🔹 Integración con cámaras de seguridad en fases posteriores.
+- 🔹 Expansión del sistema para incluir a la Policía y Bomberos.
+- 🔹 Implementación de un chat en vivo con las autoridades.
+- 🔹 Desarrollo de un sistema de análisis de datos para mejorar la seguridad en zonas críticas.
 
 ---
 
