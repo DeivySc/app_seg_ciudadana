@@ -16,11 +16,11 @@ La **App de Seguridad Ciudadana** es una plataforma digital diseñada para mejor
 - **Geolocalización:** Google Maps API
 
 ## 📱 Funcionalidades Principales
-✅ Reporte de incidentes en tiempo real (robos, peleas, accidentes, etc.).
-✅ Notificaciones automáticas al personal del municipio.
-✅ Ubicación precisa del incidente con Google Maps.
-✅ Historial de reportes para mejorar la planificación de seguridad.
-✅ Interfaz amigable y de fácil acceso para los ciudadanos.
+- ✅ Reporte de incidentes en tiempo real (robos, peleas, accidentes, etc.).
+- ✅ Notificaciones automáticas al personal del municipio.
+- ✅ Ubicación precisa del incidente con Google Maps.
+- ✅ Historial de reportes para mejorar la planificación de seguridad.
+- ✅ Interfaz amigable y de fácil acceso para los ciudadanos.
 
 ## ✔️ Beneficios (Pros)
 - **Mayor rapidez en la atención de emergencias.**
